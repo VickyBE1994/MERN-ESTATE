@@ -301,7 +301,7 @@ fetchListing()
                 />
                 <div className="flex flex-col items-center">
                   <p>Regular Price</p>
-                  <span className="text-xs">($/month)</span>
+                  <span className="text-xs">(₹/month)</span>
                 </div>
               </div>
               {formData.offer && (
